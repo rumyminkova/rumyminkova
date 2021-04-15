@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - &nbsp; JavaScript | Java | Python
-- &nbsp; HTML | CSS | Sass | Bootstrap | React | React-Native | Redux
+- &nbsp; HTML | CSS | Sass | Bootstrap | React | React Native | Redux
 - &nbsp; NodeJS | Express | MongoDB | Mongoose
 - &nbsp; Git | GitHub | npm | Expo | Postman | Netlify | Heroku
 
