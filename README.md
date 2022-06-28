@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - &nbsp; I have a passion for building applications and solving problems.
 - &nbsp; Love to learn new technologies and use them to be creative.
 - &nbsp; Master's Degree in Mathematics and Informatics
-- &nbsp; Currently looking for a role as a Software Developer.
+- &nbsp; Currently working as a Web Developer and Shopify Expert.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
