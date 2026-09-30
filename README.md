@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://rumyanadimitrieva.netlify.app"/><img alt="Website" src="https://img.shields.io/badge/Website-Rumyana%20Dimitrieva-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rumyanadimitrieva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rumyana%20Dimitrieva-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rumyanapupetsova/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rumyana%20Rupetsova-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rumyanamm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rumyanamm@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
