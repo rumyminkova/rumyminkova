@@ -13,37 +13,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Rumyana</h2>
+<h2> Hi, I'm Rumyana 👋 </h2>
+<h3> Independent Web Designer & Developer</h3>
+<p>I design and develop thoughtful, visually appealing, and functional websites for small businesses.</p>
+<p>I enjoy combining creative design with technical problem-solving, understanding what makes each business unique, and choosing the right tools to bring its ideas to life.</p>
 
-<h3> 💻 About Me </h3>
+<h3> ✨ What I Do </h3>
 
-- &nbsp; I have a passion for building applications and solving problems.
-- &nbsp; Love to learn new technologies and use them to be creative.
-- &nbsp; Master's Degree in Mathematics and Informatics
-- &nbsp; Currently working as a Web Developer and Shopify Expert.
+- &nbsp; <b>Website Design & Development</b> — Creating professional, user-friendly websites tailored to business goals.
+- &nbsp; <b>Website Redesign & Improvements</b> — Improving existing websites through thoughtful design and functionality.
+- &nbsp; <b>Client Collaboration</b> — Turning business needs and ideas into practical digital solutions.
+- &nbsp; <b>Continuous Learning</b> — Expanding my skills in Shopify theme development, Liquid, JavaScript, and AI-assisted development.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> &nbsp;🛠️ Tools & Technologies</h3>
 
-- &nbsp; JavaScript | Java | Python
-- &nbsp; HTML | CSS | Sass | Bootstrap | React | React Native | Redux
-- &nbsp; NodeJS | Express | MongoDB | Mongoose
-- &nbsp; Git | GitHub | npm | Expo | Postman | Netlify | Heroku
+- &nbsp;<b>Design & Website Platforms:</b> Webflow · Wix · Shopify · Canva
+- &nbsp;<b>Development:</b> HTML · CSS · JavaScript · React · Git · GitHub
+- &nbsp;<b>Currently Learning:</b> Shopify Liquid · Theme Development · APIs · Webhooks · AI-Assisted Development
 
-<br/>
+<h3> 🌿 Selected Client Work </h3>
 
-<a href="https://github.com/rumyminkova">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumyminkova&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumyminkova&theme=buefy&layout=compact" />
-</a>
+- &nbsp;<b>Institut Bio.</b>  — Designed and developed the first website for a beauty salon in France, using Wix
+- &nbsp;<b>Hale Consulting Solutions</b> — Webflow website development, enhancements, and ongoing improvements.
+- &nbsp;<b>Bodhi Yoga</b> — Improvements to an existing website built with Systeme.io.
+<p>Explore my projects and case studies on my portfolio.</p>
 
-<br/>
+<h3> 🎓 Background </h3>
+<p>I hold a Master's degree in Mathematics and Informatics and bring both technical thinking and creative curiosity to my work.</p>
+ 
+<h3> 📬 Let's Connect </h3>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://rumyanadimitrieva.netlify.app"/><img alt="Website" src="https://img.shields.io/badge/Website-Rumyana%20Dimitrieva-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://rumyana.dev"/><img alt="Rumyana Rupetsova Website" src="https://img.shields.io/badge/Website-Rumyana%20Rupetsova-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rumyanarupetsova/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rumyana%20Rupetsova-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rumyanamm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rumyanamm@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rumyana@rumyana.dev"><img alt="Email" src="https://img.shields.io/badge/Email-rumyana@rumyana.dev-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Rumyana](https://github.com/rumyminkova)
