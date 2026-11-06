@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <h3> 🌿 Selected Client Work </h3>
 
-- &nbsp;<b><a href="https://www.rumyana.dev/projects/institut-bio">Institut Bio</a></b>  — Designed and developed the first website for a beauty salon in France, using Wix
-- &nbsp;<b><a href="https://www.rumyana.dev/projects/hale-consulting-solutions">Hale Consulting Solutions</a></b> — Webflow website development, enhancements, and ongoing improvements.
-- &nbsp;<b><a href="https://www.rumyana.dev/projects/bodhi-yoga">Bodhi Yoga</a></b> — Improvements to an existing website built with Systeme.io.
+- &nbsp;<b><a href="https://www.rumyana.dev/projects/institut-bio" target="_blank" rel="noopener noreferrer">Institut Bio</a></b>  — Designed and developed the first website for a beauty salon in France, using Wix
+- &nbsp;<b><a href="https://www.rumyana.dev/projects/hale-consulting-solutions" target="_blank" rel="noopener noreferrer">Hale Consulting Solutions</a></b> — Webflow website development, enhancements, and ongoing improvements.
+- &nbsp;<b><a href="https://www.rumyana.dev/projects/bodhi-yoga" target="_blank" rel="noopener noreferrer">Bodhi Yoga</a></b> — Improvements to an existing website built with Systeme.io.
 <p>Explore my projects and case studies on my portfolio.</p>
 
 <h3> 🎓 Background </h3>
